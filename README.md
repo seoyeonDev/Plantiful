@@ -12,8 +12,8 @@
 - **Deploy site :** 배포사이트 업로드 
 
 - **Github Repository :** <br/>
-https://github.com/hennie-yun/Plantiful <br/>
-https://github.com/hennie-yun/vscodePlantiful
+https://github.com/seoyeonDev/Plantiful <br/>
+https://github.com/seoyeonDev/vscodePlantiful
   
 
 - **Presentation :** pdf 파일 첨부예정
